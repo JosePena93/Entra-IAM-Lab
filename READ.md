@@ -16,7 +16,7 @@ I manually provisioned several test accounts to build our corporate directory.
 * Went to **Users** > **All Users** > **New user**.
 * Set up a standardized corporate **User Principal Name (UPN)** format for each employee.
 * Filled out their profiles, making sure to assign their specific **Job Title** and **Department** (like HR, IT, Finance) so they have clear identity attributes.
-![User List](user-list.png)
+![User List](user_list.png)
 
 ### Step 2: Setting up Role-Based Access Control (RBAC)
 Instead of managing permissions user-by-user, I organized them into department-level Security Groups.
